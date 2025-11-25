@@ -1,0 +1,17 @@
+{
+  "lower_right": {
+    "x": -10.0,
+    "y": -10.0,
+    "z": 0.05
+  },
+  "upper_left": {
+    "x": 10.0,
+    "y": 10.0,
+    "z": 3.0
+  },
+  "resolution": 0.01,
+  "range_multiplier": 0.55,
+  "threshold_2d": 255,
+  "skip_vertical_scan": true,
+  "output_filename": "./map/map_test"
+}
