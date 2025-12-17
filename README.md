@@ -1,3 +1,7 @@
+相关说明的博客在：
+https://blog.csdn.net/hooksten/article/details/155164882?fromshare=blogdetail&sharetype=blogdetail&sharerId=155164882&sharerefer=PC&sharesource=hooksten&sharefrom=from_link
+
+
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 make -j$(nproc)
