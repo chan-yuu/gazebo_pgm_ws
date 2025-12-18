@@ -5,9 +5,7 @@ Here we introduce a quick way to generate raster maps in gazebo. The previous ge
 这里我们介绍一个在gazebo中快速生成栅格地图的方法。以前的生成一般需要通过slam进行建图，这个过程比较麻烦，而且容易产生漂移。我们现在通过gazebo中的一些插件来实现这个过程，变得更加合理而且地图非常标准化。
 
 <img width="464" height="586" alt="image" src="https://github.com/user-attachments/assets/0b4c5e6c-41ec-41fb-ad97-bbdb0560bff9" />
-
 <img width="464" height="586" alt="image" src="https://github.com/user-attachments/assets/b0d8b4de-739a-4f0d-ad29-8feba9d81a9e" />
-
 
 GUI操作界面
 
